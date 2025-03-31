@@ -65,4 +65,3 @@ npm run dev
 [Frontend] ←HTTP→ [Backend] ←Prisma→ [Supabase PostgreSQL]
    ↑                    ↑
 (React)           (Express Middleware)
-```
